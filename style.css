@@ -56,6 +56,8 @@
     padding-bottom: 422px;
     margin-bottom: 40px;
     margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   #article {
@@ -76,7 +78,7 @@
   #heading {
     float: left;
     position: absolute;
-    bottom: 390px;
+    bottom: 550px;
     left: 240px;
     right: 120px;
     width: 400px;
@@ -84,8 +86,22 @@
     background: #ebebeb;
     padding: 20px;
     padding-top: 10px;
-    padding-bottom: 200px;
     margin-bottom: -340px;
+  }
+
+  #paragraph {
+    float: left;
+    position: absolute;
+    bottom: 480px;
+    left: 240px;
+    right: 120px;
+    width: 400px;
+    color: rgb(12, 12, 12);
+    background: #ebebeb;
+    padding: 20px;
+    padding-top: 10px;
+    margin-bottom: -340px;
+
   }
   
   
